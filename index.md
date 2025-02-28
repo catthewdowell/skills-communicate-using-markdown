@@ -13,3 +13,7 @@ Although I don't understand how to use Javascript, I copied the code block examp
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
